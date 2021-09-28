@@ -7,4 +7,3 @@ The date and time at which make was run:
   460  2021-09-28 09:57:44 -  history >> history.txt
 The number of lines of code contained in guessinggame.sh :  
 37
-
