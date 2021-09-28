@@ -1,0 +1,760 @@
+    1  2021-09-28 18:49:32 -  clear
+    2  2021-09-28 18:49:32 -  ls
+    3  2021-09-28 18:49:32 -  pwd
+    4  2021-09-28 18:49:32 -  cd
+    5  2021-09-28 18:49:32 -  ls
+    6  2021-09-28 18:49:32 -  mkdir project
+    7  2021-09-28 18:49:32 -  cd project
+    8  2021-09-28 18:49:32 -  nano guessinggame.sh
+    9  2021-09-28 18:49:32 -  source guessinggame.sh
+   10  2021-09-28 18:49:32 -  nano guessinggame.sh
+   11  2021-09-28 18:49:32 -  source guessinggame.sh
+   12  2021-09-28 18:49:32 -  nano guessinggame.sh
+   13  2021-09-28 18:49:32 -  source guessinggame.sh
+   14  2021-09-28 18:49:32 -  nano guessinggame.sh
+   15  2021-09-28 18:49:32 -  source guessinggame.sh
+   16  2021-09-28 18:49:32 -  5
+   17  2021-09-28 18:49:32 -  nano guessinggame.sh
+   18  2021-09-28 18:49:32 -  source guessinggame.sh
+   19  2021-09-28 18:49:32 -  nano guessinggame.sh
+   20  2021-09-28 18:49:32 -  source guessinggame.sh
+   21  2021-09-28 18:49:32 -  nano guessinggame.sh
+   22  2021-09-27 16:20:12 -  source guessinggame.sh
+   23  2021-09-27 16:20:27 -  cd project
+   24  2021-09-27 16:20:29 -  source guessinggame.sh
+   25  2021-09-27 16:23:22 -  history
+   26  2021-09-27 16:24:08 -  export HISTTIMEFORMAT='%F %T -  '
+   27  2021-09-27 16:24:11 -  history
+   28  2021-09-27 16:24:15 -  history 2
+   29  2021-09-27 16:24:27 -  export HISTTIMEFORMAT='%F %T -  '
+   30  2021-09-27 16:24:30 -  history 2
+   31  2021-09-27 16:24:40 -  clear
+   32  2021-09-27 16:26:04 -  cd Journal
+   33  2021-09-27 16:26:16 -  mkdir Journal
+   34  2021-09-27 16:26:19 -  cd Journal
+   35  2021-09-27 16:26:27 -  nano makefile
+   36  2021-09-27 16:26:47 -  ls
+   37  2021-09-27 16:26:58 -  make draft_journal_entry.txt
+   38  2021-09-27 16:27:14 -  sudo apt install make
+   39  2021-09-27 16:27:36 -  clear
+   40  2021-09-27 16:27:41 -  make draft_journal_entry.txt
+   41  2021-09-27 16:27:48 -  ls
+   42  2021-09-27 16:31:02 -  vim makefile
+   43  2021-09-27 16:31:23 -  vim Makefile
+   44  2021-09-27 16:36:50 -  make -f draft_journal_entry.txt
+   45  2021-09-27 16:37:05 -  make 
+   46  2021-09-27 16:37:20 -  make draft_journal_entry.txt
+   47  2021-09-27 16:43:56 -  make clean
+   48  2021-09-27 16:46:21 -  sudo apt-get update
+   49  2021-09-27 16:48:23 -  sudo apt-get install build-essential
+   50  2021-09-27 16:55:39 -  clear
+   51  2021-09-27 16:55:49 -  nano makefile
+   52  2021-09-27 16:58:02 -  make
+   53  2021-09-27 16:58:06 -  ls
+   54  2021-09-27 16:58:57 -  cat -e -t -v makefile
+   55  2021-09-27 17:01:37 -  nano makefile
+   56  2021-09-27 17:02:14 -  make
+   57  2021-09-27 17:02:36 -  nano makefile
+   58  2021-09-27 17:03:14 -  make clean
+   59  2021-09-27 17:04:02 -  nano makefile
+   60  2021-09-27 17:04:40 -  make
+   61  2021-09-27 17:04:48 -  ls
+   62  2021-09-27 17:05:02 -  nano makefile
+   63  2021-09-27 17:06:41 -  make
+   64  2021-09-27 17:06:45 -  ls
+   65  2021-09-27 17:07:05 -  rm draft_journal_entry.txt
+   66  2021-09-27 17:07:07 -  ls
+   67  2021-09-27 17:07:35 -  nano makefile
+   68  2021-09-27 17:11:16 -  make
+   69  2021-09-27 17:11:25 -  cat readme.md
+   70  2021-09-27 17:12:04 -  echo "Unix Project"
+   71  2021-09-27 17:12:25 -  echo "Unix Project" > read.md
+   72  2021-09-27 17:12:27 -  ls
+   73  2021-09-27 17:12:33 -  nano makefile
+   74  2021-09-27 17:13:52 -  make readme.md
+   75  2021-09-27 17:14:08 -  cat readme.md
+   76  2021-09-27 17:14:18 -  nano makefile
+   77  2021-09-27 17:15:14 -  make readme.md
+   78  2021-09-27 17:15:17 -  cat readme.md
+   79  2021-09-27 17:15:32 -  make 
+   80  2021-09-27 17:15:36 -  cat readme.md
+   81  2021-09-27 17:15:39 -  nano makefile
+   82  2021-09-27 17:15:57 -  make readme.md
+   83  2021-09-27 17:16:07 -  cat readme.md
+   84  2021-09-27 17:16:58 -  nano makefile
+   85  2021-09-27 17:18:20 -  echo "1. 2017-06-15-In-Boston" > toc.txt
+   86  2021-09-27 17:18:39 -  make clean
+   87  2021-09-27 17:18:58 -  ls
+   88  2021-09-27 17:19:09 -  rm makefile
+   89  2021-09-27 17:19:14 -  rm read.md
+   90  2021-09-27 17:19:20 -  rm readme.md
+   91  2021-09-27 17:19:27 -  rm toc.txt
+   92  2021-09-27 17:19:29 -  clear
+   93  2021-09-27 17:19:50 -  nano makefile
+   94  2021-09-27 17:20:11 -  ls
+   95  2021-09-27 17:20:23 -  make draft_journal_entry.txt
+   96  2021-09-27 17:20:28 -  ls
+   97  2021-09-27 17:20:42 -  make draft_journal_entry.txt
+   98  2021-09-27 17:20:53 -  echo "1. 2017-06-15-In-Boston" > toc.txt
+   99  2021-09-27 17:21:00 -  nano makefile
+  100  2021-09-27 17:21:49 -  make readme.txt
+  101  2021-09-27 17:21:59 -  cat readme.txt
+  102  2021-09-27 17:22:07 -  make readme.txt
+  103  2021-09-27 17:22:19 -  echo "2. 2017-06-16-IQSS-Talk" >> toc.txt
+  104  2021-09-27 17:22:25 -  make readme.txt
+  105  2021-09-27 17:22:35 -  cat readme.txt
+  106  2021-09-27 17:22:44 -  nano makefile
+  107  2021-09-27 17:24:44 -  make clean
+  108  2021-09-27 17:24:46 -  ls
+  109  2021-09-27 17:24:56 -  make
+  110  2021-09-27 17:25:02 -  ls
+  111  2021-09-27 17:28:21 -  nano makefile
+  112  2021-09-27 17:29:29 -  make
+  113  2021-09-27 17:29:45 -  nano makefile
+  114  2021-09-27 17:30:04 -  make
+  115  2021-09-27 17:30:08 -  nano makefile
+  116  2021-09-27 17:30:25 -  make
+  117  2021-09-27 17:30:45 -  cat draft_journal_entry.txt
+  118  2021-09-27 17:30:49 -  ls
+  119  2021-09-27 17:30:58 -  rm readme.txt
+  120  2021-09-27 17:31:03 -  rm toc.txt
+  121  2021-09-27 17:31:12 -  cat draft_journal_entry.txt
+  122  2021-09-27 17:31:17 -  ls
+  123  2021-09-27 17:31:26 -  nano makefile
+  124  2021-09-27 17:34:03 -  make
+  125  2021-09-27 17:34:18 -  car readme.md
+  126  2021-09-27 17:34:26 -  cat readme.md
+  127  2021-09-27 17:34:33 -  nano makefile
+  128  2021-09-27 17:35:38 -  make
+  129  2021-09-27 17:35:42 -  cat readme.md
+  130  2021-09-27 17:35:54 -  nano makefile
+  131  2021-09-27 17:36:20 -  ls
+  132  2021-09-27 17:36:41 -  rm draft_journal_entry.txt
+  133  2021-09-27 17:36:47 -  rm makefile
+  134  2021-09-27 17:36:56 -  rm readme.md
+  135  2021-09-27 17:36:58 -  clear
+  136  2021-09-27 17:37:07 -  nano makefile
+  137  2021-09-27 17:38:52 -  export HISTTIMEFORMAT='%F %T -  '
+  138  2021-09-27 17:38:57 -  hisroty 2
+  139  2021-09-27 17:39:09 -  history 2
+  140  2021-09-27 17:39:28 -  history 2 >> history.txt
+  141  2021-09-27 17:39:37 -  cat history.txt
+  142  2021-09-27 17:39:57 -  nano makefile
+  143  2021-09-27 17:41:27 -  make
+  144  2021-09-27 17:41:42 -  cat readme.md
+  145  2021-09-27 17:42:08 -  nano makefile
+  146  2021-09-27 17:42:21 -  make
+  147  2021-09-27 17:42:26 -  cat readme.md
+  148  2021-09-27 17:42:34 -  nano makefile
+  149  2021-09-27 17:45:19 -  clear
+  150  2021-09-27 17:45:22 -  nano makefile
+  151  2021-09-27 17:45:29 -  ls
+  152  2021-09-27 17:45:34 -  nano makefile
+  153  2021-09-27 17:45:43 -  ls
+  154  2021-09-27 17:45:53 -  cd
+  155  2021-09-27 17:45:55 -  ls
+  156  2021-09-27 17:46:00 -  cd Journal
+  157  2021-09-27 17:46:05 -  ls
+  158  2021-09-27 17:46:10 -  nano makefile
+  159  2021-09-27 17:46:15 -  make
+  160  2021-09-27 17:46:21 -  ls
+  161  2021-09-27 17:46:52 -  nano makefile
+  162  2021-09-27 17:47:08 -  rm makefile
+  163  2021-09-27 17:47:19 -  nano makefile
+  164  2021-09-27 17:47:33 -  make
+  165  2021-09-27 17:47:52 -  cd
+  166  2021-09-27 17:48:07 -  rm Journal
+  167  2021-09-27 17:48:18 -  rm -rf Journal
+  168  2021-09-27 17:48:21 -  ls
+  169  2021-09-27 17:48:33 -  mkdir file
+  170  2021-09-27 17:48:41 -  cd file
+  171  2021-09-27 17:48:49 -  nano makefile
+  172  2021-09-27 17:48:56 -  make
+  173  2021-09-27 17:49:15 -  cat readme.md
+  174  2021-09-27 17:49:47 -  nano makefile
+  175  2021-09-27 17:50:42 -  make
+  176  2021-09-27 17:50:48 -  cat readme.md
+  177  2021-09-27 17:50:54 -  ls
+  178  2021-09-27 17:51:09 -  nano makefile
+  179  2021-09-27 17:51:35 -  cat makefile
+  180  2021-09-27 17:51:55 -  rm makefile
+  181  2021-09-27 17:52:03 -  rm readme.md
+  182  2021-09-27 17:52:21 -  nano makefile
+  183  2021-09-27 17:52:38 -  make
+  184  2021-09-27 17:52:48 -  nano makefile
+  185  2021-09-27 17:53:08 -  make
+  186  2021-09-27 17:53:16 -  cat readme.md
+  187  2021-09-27 17:53:51 -  nano makefile
+  188  2021-09-27 17:55:00 -  make
+  189  2021-09-27 17:55:03 -  cat readme.md
+  190  2021-09-27 17:55:16 -  cat makefile
+  191  2021-09-27 17:55:35 -  rm makefile
+  192  2021-09-27 17:55:46 -  rm readme.md
+  193  2021-09-27 17:55:52 -  ls
+  194  2021-09-27 17:56:01 -  nano makefile
+  195  2021-09-27 17:56:33 -  make
+  196  2021-09-27 17:56:38 -  nano makefile
+  197  2021-09-27 17:56:58 -  make
+  198  2021-09-27 17:57:04 -  cat readme.md
+  199  2021-09-27 17:57:21 -  export HISTTIMEFORMAT='%F %T -  '
+  200  2021-09-27 17:58:32 -  history 6 >> history.txt
+  201  2021-09-27 17:58:38 -  nano makefile
+  202  2021-09-27 18:01:53 -  cat makefile
+  203  2021-09-27 18:02:55 -  rm makefile
+  204  2021-09-27 18:03:01 -  rm readme.md
+  205  2021-09-27 18:03:13 -  ls
+  206  2021-09-27 18:03:19 -  nano makefile
+  207  2021-09-27 18:04:04 -  make
+  208  2021-09-27 18:04:12 -  cat readme.md
+  209  2021-09-27 18:05:09 -  rm readme.md
+  210  2021-09-27 18:05:17 -  rm makefile
+  211  2021-09-27 18:06:13 -  history 6 >> history.txt
+  212  2021-09-27 18:06:23 -  nano makefile
+  213  2021-09-27 18:06:53 -  make
+  214  2021-09-27 18:06:59 -  nano makefile
+  215  2021-09-27 18:07:47 -  make
+  216  2021-09-27 18:08:03 -  cat readme.md
+  217  2021-09-27 18:10:31 -  cd
+  218  2021-09-28 07:04:58 -  apt sudo update
+  219  2021-09-28 07:05:10 -  sudo apt update
+  220  2021-09-28 07:08:46 -  clear
+  221  2021-09-28 07:09:28 -  ls
+  222  2021-09-28 07:09:34 -  cd project
+  223  2021-09-28 07:10:08 -  export HISTTIMEFORMAT='%F %T -  '
+  224  2021-09-28 07:10:18 -  history 2
+  225  2021-09-28 07:10:39 -  history >> history.txt
+  226  2021-09-28 07:16:35 -  grep -w make history.txt
+  227  2021-09-28 07:26:10 -  grep -w make history.txt | tail -5 > history.txt
+  228  2021-09-28 07:26:24 -  cat history.txt
+  229  2021-09-28 07:26:32 -  history >> history.txt
+  230  2021-09-28 07:27:01 -  tail -5 history.txt
+  231  2021-09-28 07:27:12 -  grep -w make history.txt | tail -5 history.txt
+  232  2021-09-28 07:30:37 -  tail -f history.txt | grep "make"
+  233  2021-09-28 07:31:25 -  grep -w make history.txt | tail -f history.txt
+  234  2021-09-28 07:32:00 -  tail -f history.txt | grep -w make history.txt
+  235  2021-09-28 07:32:25 -  tail -f history.txt | grep make history.txt
+  236  2021-09-28 07:32:40 -  tail -5 history.txt | grep make history.txt
+  237  2021-09-28 07:32:50 -  tail -f history.txt | grep "make"
+  238  2021-09-28 07:35:07 -  clear
+  239  2021-09-28 07:35:13 -  nano makefile
+  240  2021-09-28 07:36:03 -  make readme.md
+  241  2021-09-28 07:36:26 -  ls
+  242  2021-09-28 07:36:41 -  rm makefile
+  243  2021-09-28 07:37:17 -  grep -w make history.txt | tail -5 history.txt
+  244  2021-09-28 07:43:36 -  echo "export HISTTIMEFORMAT='%F %T -  ' " >> history.txt
+  245  2021-09-28 07:46:19 -  grep "make" history.txt
+  246  2021-09-28 07:47:49 -  clear
+  247  2021-09-28 07:47:55 -  nano makefile
+  248  2021-09-28 07:48:46 -  make
+  249  2021-09-28 07:49:12 -  nano makefile
+  250  2021-09-28 07:51:04 -  make
+  251  2021-09-28 07:51:47 -  nano makefile
+  252  2021-09-28 07:52:07 -  rm history.txt
+  253  2021-09-28 07:52:08 -  ls
+  254  2021-09-28 07:52:21 -  make
+  255  2021-09-28 07:53:37 -  nano makefile
+  256  2021-09-28 07:54:02 -  cat makefile
+  257  2021-09-28 07:54:33 -  nano makefile
+  258  2021-09-28 07:56:28 -  make
+  259  2021-09-28 07:56:53 -  ls
+  260  2021-09-28 07:57:34 -  nano makefile
+  261  2021-09-28 08:00:31 -  make
+  262  2021-09-28 08:00:45 -  nano makefile
+  263  2021-09-28 08:00:53 -  cat makefile
+  264  2021-09-28 08:01:32 -  nano makefile
+  265  2021-09-28 08:02:22 -  make
+  266  2021-09-28 08:02:39 -  rm history.txt
+  267  2021-09-28 08:02:40 -  ls
+  268  2021-09-28 08:02:52 -  rm all-history.txt
+  269  2021-09-28 08:03:01 -  rm README.md
+  270  2021-09-28 08:03:15 -  clear
+  271  2021-09-28 08:03:19 -  make
+  272  2021-09-28 08:03:35 -  nano makefile
+  273  2021-09-28 08:03:47 -  cat makefile
+  274  2021-09-28 08:04:25 -  ls
+  275  2021-09-28 08:04:34 -  rm all-history
+  276  2021-09-28 08:04:40 -  rm all-history.txt
+  277  2021-09-28 08:04:51 -  rm *.txt
+  278  2021-09-28 08:04:56 -  rm makefile
+  279  2021-09-28 08:05:01 -  ls
+  280  2021-09-28 08:05:05 -  clear
+  281  2021-09-28 08:05:15 -  nano makefile
+  282  2021-09-28 08:06:11 -  make
+  283  2021-09-28 08:06:31 -  nano makefile
+  284  2021-09-28 08:06:47 -  make
+  285  2021-09-28 08:07:08 -  cat README.md
+  286  2021-09-28 08:07:21 -  cat makefile
+  287  2021-09-28 08:07:37 -  rm *.txt
+  288  2021-09-28 08:07:41 -  ls
+  289  2021-09-28 08:07:47 -  rm *.md
+  290  2021-09-28 08:07:49 -  ls
+  291  2021-09-28 08:07:54 -  rm makefile
+  292  2021-09-28 08:07:58 -  clear
+  293  2021-09-28 08:08:04 -  nano makefile
+  294  2021-09-28 08:08:49 -  make
+  295  2021-09-28 08:12:01 -  nano makefile
+  296  2021-09-28 08:12:40 -  make
+  297  2021-09-28 08:12:49 -  cat README.md
+  298  2021-09-28 08:13:01 -  rm *md
+  299  2021-09-28 08:13:09 -  rm *.md
+  300  2021-09-28 08:13:16 -  ls
+  301  2021-09-28 08:13:24 -  rm *.txt
+  302  2021-09-28 08:13:32 -  rm makefile
+  303  2021-09-28 08:13:34 -  clear
+  304  2021-09-28 08:13:55 -  nano makefile
+  305  2021-09-28 08:14:41 -  make
+  306  2021-09-28 08:15:03 -  grep -n "make" all-history.txt >> history.txt
+  307  2021-09-28 08:15:09 -  cat history
+  308  2021-09-28 08:15:13 -  cat history.txt
+  309  2021-09-28 08:15:29 -  cat all-history.txt
+  310  2021-09-28 08:16:22 -  rm *.txt
+  311  2021-09-28 08:16:24 -  ls
+  312  2021-09-28 08:16:32 -  rm makefile
+  313  2021-09-28 08:17:37 -  nano makefile
+  314  2021-09-28 08:18:20 -  make
+  315  2021-09-28 08:19:20 -  ls
+  316  2021-09-28 08:19:29 -  cat all-history.txt
+  317  2021-09-28 08:22:50 -  rm *.txt
+  318  2021-09-28 08:22:59 -  rm makefile
+  319  2021-09-28 08:23:02 -  clear
+  320  2021-09-28 08:23:12 -  nano makefile
+  321  2021-09-28 08:23:52 -  make
+  322  2021-09-28 08:23:58 -  nano makefile
+  323  2021-09-28 08:24:09 -  make
+  324  2021-09-28 08:24:30 -  nano makefile
+  325  2021-09-28 08:24:44 -  make
+  326  2021-09-28 08:24:47 -  ls
+  327  2021-09-28 08:24:57 -  cat all-history.txt
+  328  2021-09-28 08:25:47 -  history >> all-history.txt
+  329  2021-09-28 08:25:56 -  cat all-history.txt
+  330  2021-09-28 08:26:15 -  rm makefile
+  331  2021-09-28 08:26:18 -  ls
+  332  2021-09-28 08:26:29 -  nano makefile
+  333  2021-09-28 08:27:01 -  make
+  334  2021-09-28 08:27:06 -  nano makefile
+  335  2021-09-28 08:27:42 -  make
+  336  2021-09-28 08:27:50 -  cat README.md
+  337  2021-09-28 08:28:34 -  make
+  338  2021-09-28 08:28:41 -  cat README.md
+  339  2021-09-28 08:28:54 -  cat makefile
+  340  2021-09-28 08:29:14 -  rm README.md
+  341  2021-09-28 08:29:21 -  rm history.txt
+  342  2021-09-28 08:29:22 -  ls
+  343  2021-09-28 08:29:28 -  rm makefile
+  344  2021-09-28 08:29:33 -  nano makefile
+  345  2021-09-28 08:30:33 -  make history.txt
+  346  2021-09-28 08:30:43 -  make README.md
+  347  2021-09-28 08:30:53 -  cat README.md
+  348  2021-09-28 08:31:12 -  history 2
+  349  2021-09-28 08:31:47 -  history >> all-history.txt
+  350  2021-09-28 08:31:57 -  make README.md
+  351  2021-09-28 08:32:02 -  make history.txt
+  352  2021-09-28 08:32:05 -  make README.md
+  353  2021-09-28 08:32:09 -  cat README.md
+  354  2021-09-28 08:32:16 -  rm *.md
+  355  2021-09-28 08:32:34 -  rm history.txt
+  356  2021-09-28 08:33:07 -  rm makefile
+  357  2021-09-28 08:34:20 -  nano makefile
+  358  2021-09-28 08:35:36 -  make history
+  359  2021-09-28 09:00:12 -  history -a >> all-history.txt
+  360  2021-09-28 09:00:18 -  ls
+  361  2021-09-28 09:00:30 -  all-history.txt
+  362  2021-09-28 09:00:38 -  cat all-history.txt
+  363  2021-09-28 09:01:56 -  history
+  364  2021-09-28 09:02:21 -  ls
+  365  2021-09-28 09:02:46 -  cd project
+  366  2021-09-28 09:02:48 -  ls
+  367  2021-09-28 09:05:39 -  rm *.save
+  368  2021-09-28 09:05:43 -  ls
+  369  2021-09-28 09:07:06 -  cat .~history
+  370  2021-09-28 09:07:15 -  history 2
+  371  2021-09-28 09:12:41 -  cat ~/.bash_history
+  372  2021-09-28 09:13:04 -  export HISTTIMEFORMAT='%F %T -  '
+  373  2021-09-28 09:13:06 -  cat ~/.bash_history
+  374  2021-09-28 09:13:43 -  export HISTTIMEFORMAT='%F %T -  '
+  375  2021-09-28 09:13:45 -  cat ~/.bash_history
+  376  2021-09-28 09:13:57 -  history -a
+  377  2021-09-28 09:14:06 -  history
+  378  2021-09-28 09:14:27 -  history 3 >> a.txt
+  379  2021-09-28 09:14:37 -  cat a.txt
+  380  2021-09-28 09:14:56 -  history -a >> a.txt
+  381  2021-09-28 09:15:07 -  cat a.txt
+  382  2021-09-28 09:18:01 -  ls
+  383  2021-09-28 09:18:06 -  rm makefile
+  384  2021-09-28 09:18:13 -  rm a.txt
+  385  2021-09-28 09:18:21 -  rm .txt
+  386  2021-09-28 09:18:27 -  rm *.txt
+  387  2021-09-28 09:18:46 -  nano makefile
+  388  2021-09-28 09:20:33 -  make
+  389  2021-09-28 09:20:55 -  cat history.txt
+  390  2021-09-28 09:26:19 -  ls
+  391  2021-09-28 09:26:29 -  rm *.txt
+  392  2021-09-28 09:26:42 -  rm makefile
+  393  2021-09-28 09:27:05 -  history >> all-history.txt
+  394  2021-09-28 09:27:32 -  nano makefile
+  395  2021-09-28 09:29:09 -  make history
+  396  2021-09-28 09:29:15 -  make history.txt
+  397  2021-09-28 09:29:26 -  make README.md
+  398  2021-09-28 09:29:36 -  cat README.md
+  399  2021-09-28 09:29:50 -  history >> all-history.txt
+  400  2021-09-28 09:29:56 -  make history.txt
+  401  2021-09-28 09:30:00 -  make README.md
+  402  2021-09-28 09:30:03 -  cat README.md
+  403  2021-09-28 09:30:31 -  nano makefile
+  404  2021-09-28 09:31:31 -  make README.md
+  405  2021-09-28 09:31:40 -  cat README.md
+  406  2021-09-28 09:32:04 -  rm *.txt
+  407  2021-09-28 09:32:08 -  rm makefile
+  408  2021-09-28 09:32:15 -  rm *.md
+  409  2021-09-28 09:32:38 -  history >> history.txt
+  410  2021-09-28 09:32:52 -  tail -2 history.txt
+  411  2021-09-28 09:33:07 -  nano makefile
+  412  2021-09-28 09:47:38 -  make README.md
+  413  2021-09-28 09:47:46 -  nano makefile
+  414  2021-09-28 09:48:17 -  make README.md
+  415  2021-09-28 09:48:24 -  cat README.md
+  416  2021-09-28 09:48:38 -  history >> history.txt
+  417  2021-09-28 09:48:42 -  make README.md
+  418  2021-09-28 09:48:47 -  cat README.md
+  419  2021-09-28 09:49:37 -  nano README.md
+  420  2021-09-28 09:49:54 -  nano makefile
+  421  2021-09-28 09:50:24 -  make README.md
+  422  2021-09-28 09:50:28 -  cat README.md
+  423  2021-09-28 09:50:58 -  history >> history.txt
+  424  2021-09-28 09:51:10 -  make README.md
+  425  2021-09-28 09:51:14 -  cat README.md
+  426  2021-09-28 09:51:27 -  history >> history.txt
+  427  2021-09-28 09:51:34 -  make README.md
+  428  2021-09-28 09:51:37 -  cat README.md
+  429  2021-09-28 09:51:59 -  nano makefile
+  430  2021-09-28 09:52:08 -  history >> history.txt
+  431  2021-09-28 09:52:15 -  make README.md
+  432  2021-09-28 09:52:18 -  cat README.md
+  433  2021-09-28 09:52:31 -  export HISTTIMEFORMAT='%F %T -  '
+  434  2021-09-28 09:52:34 -  history >> history.txt
+  435  2021-09-28 09:52:39 -  nano makefile
+  436  2021-09-28 09:52:50 -  make README.md
+  437  2021-09-28 09:52:55 -  cat README.md
+  438  2021-09-28 09:53:00 -  history >> history.txt
+  439  2021-09-28 09:53:02 -  make README.md
+  440  2021-09-28 09:53:04 -  cat README.md
+  441  2021-09-28 09:53:35 -  history >> history.txt
+  442  2021-09-28 09:53:38 -  make README.md
+  443  2021-09-28 09:53:41 -  cat README.md
+  444  2021-09-28 09:53:51 -  clear
+  445  2021-09-28 09:53:55 -  cls
+  446  2021-09-28 09:53:58 -  ls
+  447  2021-09-28 09:54:08 -  rm *.txt
+  448  2021-09-28 09:54:17 -  rm *.md
+  449  2021-09-28 09:54:20 -  clear
+  450  2021-09-28 09:54:32 -  export HISTTIMEFORMAT='%F %T -  '
+  451  2021-09-28 09:54:48 -  nano makefile
+  452  2021-09-28 09:55:14 -  make README.md
+  453  2021-09-28 09:55:18 -  nano makefile
+  454  2021-09-28 09:55:59 -  clear
+  455  2021-09-28 09:56:01 -  export HISTTIMEFORMAT='%F %T -  '
+  456  2021-09-28 09:56:09 -  history >> history.txt
+  457  2021-09-28 09:57:12 -  nano makefile
+  458  2021-09-28 09:57:23 -  make README.md
+  459  2021-09-28 09:57:35 -  cat README.md
+  460  2021-09-28 09:57:44 -  history >> history.txt
+  461  2021-09-28 09:57:47 -  make README.md
+  462  2021-09-28 09:57:50 -  cat README.md
+  463  2021-09-28 10:07:00 -  clear
+  464  2021-09-28 10:07:04 -  git init
+  465  2021-09-28 10:11:55 -  git clone https://github.com/alekhya-kolli/alekhya-kolli.github.io
+  466  2021-09-28 10:12:32 -  git branch
+  467  2021-09-28 10:13:24 -  git checkout master
+  468  2021-09-28 10:15:39 -  git add README.md
+  469  2021-09-28 10:15:49 -  git branch
+  470  2021-09-28 10:16:09 -  git commit "Added readme.md"
+  471  2021-09-28 10:17:31 -  git status
+  472  2021-09-28 10:18:53 -  git commit -m "Added readme.md"
+  473  2021-09-28 10:19:15 -  git config --global user.name "AlekhyaKolli"
+  474  2021-09-28 10:20:06 -  git config --global user.name "alekhya-kolli"
+  475  2021-09-28 10:20:09 -  git config --global user.email kollialekhya007@gmail.com
+  476  2021-09-28 10:20:15 -  git commit -m "Added readme.md"
+  477  2021-09-28 10:20:44 -  git branch
+  478  2021-09-28 10:20:54 -  git checkout project
+  479  2021-09-28 10:21:11 -  git branch project
+  480  2021-09-28 10:21:13 -  git checkout project
+  481  2021-09-28 10:21:33 -  git merge master
+  482  2021-09-28 10:22:34 -  git clone https://github.com/alekhya-kolli/alekhya-kolli.github.io
+  483  2021-09-28 10:22:56 -  cd alekhya-kolli.github.io
+  484  2021-09-28 10:22:58 -  ls
+  485  2021-09-28 10:23:37 -  git add --all
+  486  2021-09-28 10:26:06 -  cd
+  487  2021-09-28 10:26:17 -  cd ~
+  488  2021-09-28 10:26:25 -  cd project
+  489  2021-09-28 10:26:39 -  cd alekhya-kolli.github.io
+  490  2021-09-28 10:26:50 -  git branch
+  491  2021-09-28 10:28:09 -  nano makefile
+  492  2021-09-28 10:28:52 -  make 
+  493  2021-09-28 10:28:59 -  cat README.md
+  494  2021-09-28 10:29:08 -  nano makefile
+  495  2021-09-28 10:29:40 -  rm makefile
+  496  2021-09-28 10:29:44 -  nano makefile
+  497  2021-09-28 10:30:53 -  make 
+  498  2021-09-28 10:30:56 -  cat README.md
+  499  2021-09-28 10:31:07 -  nano makefile
+  500  2021-09-28 10:31:26 -  make README.md
+  501  2021-09-28 10:31:30 -  cat README.md
+  502  2021-09-28 10:31:40 -  nano makefile
+  503  2021-09-28 10:32:57 -  cat README.md
+  504  2021-09-28 10:33:30 -  git add --all
+  505  2021-09-28 10:33:42 -  git commit "added project work"
+  506  2021-09-28 10:33:50 -  git commit -m "added project work"
+  507  2021-09-28 10:34:12 -  git push -u origin
+  508  2021-09-28 10:36:52 -  git push -u origin master
+  509  2021-09-28 11:00:36 -  git branch
+  510  2021-09-28 11:00:46 -  git branch project
+  511  2021-09-28 11:00:59 -  git merge master
+  512  2021-09-28 11:01:19 -  git checkout project
+  513  2021-09-28 11:02:46 -  git root
+  514  2021-09-28 11:02:55 -  git --help
+  515  2021-09-28 11:03:11 -  man git
+  516  2021-09-28 11:06:07 -  git remote
+  517  2021-09-28 11:07:31 -  git remote add project https://github.com/alekhya-kolli/alekhya-kolli.github.io.git
+  518  2021-09-28 11:09:33 -  git remote set-url project https://github.com/alekhya-kolli/alekhya-kolli.github.io.git
+  519  2021-09-28 11:09:39 -  git remote
+  520  2021-09-28 11:10:06 -  git branch
+  521  2021-09-28 11:10:29 -  git push -u project project
+  522  2021-09-28 11:17:45 -  git clone https://github.com/alekhya-kolli/Project.git
+  523  2021-09-28 11:18:04 -  git checkout master
+  524  2021-09-28 11:18:18 -  cd
+  525  2021-09-28 11:18:26 -  cd project
+  526  2021-09-28 11:18:30 -  git clone https://github.com/alekhya-kolli/Project.git
+  527  2021-09-28 11:18:46 -  ls
+  528  2021-09-28 11:19:07 -  cd Project
+  529  2021-09-28 11:19:10 -  ls
+  530  2021-09-28 11:19:39 -  rm -rf *.git
+  531  2021-09-28 11:19:42 -  cd
+  532  2021-09-28 11:20:23 -  cd project
+  533  2021-09-28 11:20:26 -  ls
+  534  2021-09-28 11:20:34 -  cd Project
+  535  2021-09-28 11:20:40 -  rm -rf *.git
+  536  2021-09-28 11:20:46 -  cd ..
+  537  2021-09-28 11:20:55 -  rm -rf Project
+  538  2021-09-28 11:20:58 -  ls
+  539  2021-09-28 11:21:13 -  cd alekhya-kolli.github.io
+  540  2021-09-28 11:21:19 -  git clone https://github.com/alekhya-kolli/Project.git
+  541  2021-09-28 11:21:34 -  ls
+  542  2021-09-28 11:22:18 -  git push -u origin master
+  543  2021-09-28 11:22:50 -  git add --all
+  544  2021-09-28 11:23:29 -  git commit -m "adding project files to the github repository"
+  545  2021-09-28 11:23:57 -  git push -u origin master
+  546  2021-09-28 11:25:12 -  rm -rf Project
+  547  2021-09-28 11:25:17 -  git add --all
+  548  2021-09-28 11:25:21 -  git commit -m "adding project files to the github repository"
+  549  2021-09-28 11:25:28 -  git push -u origin master
+  550  2021-09-28 11:26:34 -  clear
+  551  2021-09-28 11:26:38 -  cd ..
+  552  2021-09-28 11:27:00 -  git init
+  553  2021-09-28 11:27:21 -  git remote add origin https://github.com/alekhya-kolli/Project.git
+  554  2021-09-28 11:27:26 -  git remote
+  555  2021-09-28 11:27:31 -  git branch
+  556  2021-09-28 11:27:44 -  git branch master
+  557  2021-09-28 11:27:53 -  git checkout master
+  558  2021-09-28 11:28:00 -  ls
+  559  2021-09-28 11:28:18 -  git push -u origin master
+  560  2021-09-28 11:28:46 -  git add --all
+  561  2021-09-28 11:29:27 -  cd
+  562  2021-09-28 13:50:49 -  history
+  563  2021-09-28 13:50:56 -  ls
+  564  2021-09-28 13:51:11 -  rm *.md
+  565  2021-09-28 13:51:15 -  rm makefile
+  566  2021-09-28 13:51:23 -  rm -rf sed
+  567  2021-09-28 13:51:30 -  nano makefile
+  568  2021-09-28 13:52:25 -  make README.md
+  569  2021-09-28 13:52:40 -  cat README.md
+  570  2021-09-28 13:53:11 -  history
+  571  2021-09-28 13:53:23 -  history >> history.txt
+  572  2021-09-28 13:53:40 -  nano makefile
+  573  2021-09-28 13:55:25 -  cat README.md
+  574  2021-09-28 13:55:41 -  history
+  575  2021-09-28 13:56:30 -  history >> history.txt
+  576  2021-09-28 13:57:25 -  touch history.txt
+  577  2021-09-28 13:57:28 -  history >> history.txt
+  578  2021-09-28 13:57:55 -  cd
+  579  2021-09-28 13:57:57 -  ls
+  580  2021-09-28 13:58:03 -  cd project
+  581  2021-09-28 13:58:10 -  ls
+  582  2021-09-28 13:59:08 -  cd project
+  583  2021-09-28 13:59:20 -  touch history.txt
+  584  2021-09-28 13:59:44 -  touch file-his.txt
+  585  2021-09-28 14:01:15 -  touch file-history.txt
+  586  2021-09-28 14:01:57 -  history
+  587  2021-09-28 14:02:30 -  export HISTTIMEFORMAT='%F %T -  '
+  588  2021-09-28 14:02:33 -  history
+  589  2021-09-28 14:02:46 -  history >> file-history.txt
+  590  2021-09-28 14:04:48 -  sed -n 567p file-history.txt
+  591  2021-09-28 14:04:57 -  sed -n 568p file-history.txt
+  592  2021-09-28 14:05:43 -  nano makefile
+  593  2021-09-28 14:07:59 -  make README.md
+  594  2021-09-28 14:08:10 -  cat README.md
+  595  2021-09-28 14:09:52 -  git branch
+  596  2021-09-28 14:10:08 -  git checkout project
+  597  2021-09-28 14:10:25 -  git branch
+  598  2021-09-28 14:10:36 -  git add --all
+  599  2021-09-28 14:10:49 -  git commit "Project"
+  600  2021-09-28 14:10:57 -  git commit -m "Project"
+  601  2021-09-28 14:11:05 -  git checkout project
+  602  2021-09-28 14:11:25 -  git merge master
+  603  2021-09-28 14:11:48 -  git chechout master
+  604  2021-09-28 14:11:59 -  git checkout master
+  605  2021-09-28 14:12:52 -  git add -A
+  606  2021-09-28 14:13:01 -  git commit -m "added"
+  607  2021-09-28 14:13:04 -  git checkout master
+  608  2021-09-28 14:14:27 -  git branch -d project
+  609  2021-09-28 14:14:33 -  cd
+  610  2021-09-28 14:14:38 -  cd project
+  611  2021-09-28 14:14:46 -  git branch
+  612  2021-09-28 14:16:15 -  rm -rf *.git
+  613  2021-09-28 14:16:40 -  cd
+  614  2021-09-28 14:16:49 -  rm -rf project
+  615  2021-09-28 14:16:53 -  ls
+  616  2021-09-28 14:17:04 -  mkdir projects
+  617  2021-09-28 14:17:09 -  cd projects
+  618  2021-09-28 14:17:40 -  touch file-history.txt
+  619  2021-09-28 14:17:57 -  history >> file-history.txt
+  620  2021-09-28 14:18:09 -  cat file-history.txt
+  621  2021-09-28 14:18:30 -  nano makefile
+  622  2021-09-28 14:19:00 -  make README.md
+  623  2021-09-28 14:21:53 -  cat README.md
+  624  2021-09-28 14:22:43 -  history >> file-history.txt
+  625  2021-09-28 14:23:31 -  nano makefile
+  626  2021-09-28 14:23:50 -  make README.md
+  627  2021-09-28 14:23:54 -  cat README.md
+  628  2021-09-28 14:24:05 -  nano makefile
+  629  2021-09-28 14:24:42 -  touch file-history.txt
+  630  2021-09-28 14:24:47 -  history >> file-history.txt
+  631  2021-09-28 14:24:53 -  nano makefile
+  632  2021-09-28 14:25:00 -  make README.md
+  633  2021-09-28 14:25:04 -  cat README.md
+  634  2021-09-28 14:25:21 -  ls
+  635  2021-09-28 14:25:40 -  touch f-history.txt
+  636  2021-09-28 14:25:59 -  history >> f-history.txt
+  637  2021-09-28 14:26:05 -  nano makefile
+  638  2021-09-28 14:26:35 -  make
+  639  2021-09-28 14:26:47 -  nano makefile
+  640  2021-09-28 14:27:11 -  make README.md
+  641  2021-09-28 14:27:17 -  cat README.md
+  642  2021-09-28 14:27:32 -  ls
+  643  2021-09-28 14:27:38 -  cat README.md
+  644  2021-09-28 14:27:50 -  nano makefile
+  645  2021-09-28 14:28:12 -  ls
+  646  2021-09-28 14:29:00 -  nano makefile
+  647  2021-09-28 14:29:28 -  make 
+  648  2021-09-28 14:29:43 -  make README.md
+  649  2021-09-28 14:29:49 -  cat README.md
+  650  2021-09-28 14:30:19 -  nano makefile
+  651  2021-09-28 14:30:48 -  ls
+  652  2021-09-28 14:30:54 -  cd projects
+  653  2021-09-28 14:30:58 -  ls
+  654  2021-09-28 14:31:06 -  cat f-history.txt
+  655  2021-09-28 14:31:20 -  nano makefile
+  656  2021-09-28 14:31:44 -  make README.md
+  657  2021-09-28 14:31:50 -  cat README.md
+  658  2021-09-28 14:32:00 -  clear
+  659  2021-09-28 14:32:48 -  touch a-history.txt
+  660  2021-09-28 14:32:54 -  history 2
+  661  2021-09-28 14:33:15 -  export HISTTIMEFORMAT='%F %T -  '
+  662  2021-09-28 14:33:17 -  history 2
+  663  2021-09-28 14:33:29 -  history >> a-history.txt
+  664  2021-09-28 14:33:40 -  nano makefile
+  665  2021-09-28 14:33:54 -  ls
+  666  2021-09-28 14:34:04 -  rm makefile
+  667  2021-09-28 14:34:09 -  nano makefile
+  668  2021-09-28 14:35:17 -  make README.md
+  669  2021-09-28 14:35:28 -  make 
+  670  2021-09-28 14:35:34 -  nano makefile
+  671  2021-09-28 14:35:41 -  cd
+  672  2021-09-28 14:35:52 -  rm -rf prpjects
+  673  2021-09-28 14:36:06 -  mkdir work
+  674  2021-09-28 14:36:09 -  cd work
+  675  2021-09-28 14:38:01 -  export HISTTIMEFORMAT='%F %T -  '
+  676  2021-09-28 14:38:06 -  history 2
+  677  2021-09-28 14:38:21 -  history >> cphistory.txt
+  678  2021-09-28 14:38:27 -  nano makefile
+  679  2021-09-28 14:38:58 -  make README.md
+  680  2021-09-28 14:39:06 -  cat README.md
+  681  2021-09-28 14:40:05 -  history 10
+  682  2021-09-28 14:41:57 -  history >> cphistory.txt
+  683  2021-09-28 14:42:14 -  nano makefile
+  684  2021-09-28 14:42:40 -  make README.md
+  685  2021-09-28 14:42:48 -  cat README.md
+  686  2021-09-28 14:43:35 -  git init
+  687  2021-09-28 14:43:46 -  git remote add origin https://github.com/alekhya-kolli/project.git
+  688  2021-09-28 14:43:50 -  git remote
+  689  2021-09-28 14:43:55 -  git add --all
+  690  2021-09-28 14:44:14 -  git commit -m "added project to github"
+  691  2021-09-28 14:44:40 -  git push -u origin master
+  692  2021-09-28 14:46:58 -  cd
+  693  2021-09-28 14:47:04 -  ls
+  694  2021-09-28 14:47:12 -  cd web-page
+  695  2021-09-28 14:48:13 -  git add --all
+  696  2021-09-28 14:49:24 -  cd alekhya-kolli.github.io
+  697  2021-09-28 14:49:27 -  git add --all
+  698  2021-09-28 14:49:43 -  git commit -m "added README.md"
+  699  2021-09-28 14:49:55 -  git push -u origin master
+  700  2021-09-28 17:41:04 -  cd
+  701  2021-09-28 17:41:16 -  ls
+  702  2021-09-28 17:41:23 -  cd work
+  703  2021-09-28 17:41:34 -  nano makefile
+  704  2021-09-28 17:42:44 -  make README.md
+  705  2021-09-28 17:42:56 -  cat README.md
+  706  2021-09-28 17:44:10 -  nano makefile
+  707  2021-09-28 17:46:13 -  make
+  708  2021-09-28 17:46:24 -  make README.md
+  709  2021-09-28 17:46:29 -  cat README.md
+  710  2021-09-28 17:46:53 -  ls
+  711  2021-09-28 17:47:14 -  rm makefile
+  712  2021-09-28 17:47:30 -  rm *.md
+  713  2021-09-28 17:48:18 -  nano makefile
+  714  2021-09-28 17:50:07 -  make README.md
+  715  2021-09-28 17:50:26 -  cat README.md
+  716  2021-09-28 17:50:58 -  history 2
+  717  2021-09-28 17:51:28 -  history 5
+  718  2021-09-28 17:51:38 -  nano makefile
+  719  2021-09-28 17:52:24 -  make README.md
+  720  2021-09-28 17:52:29 -  cat README.md
+  721  2021-09-28 17:52:46 -  nano makefile
+  722  2021-09-28 17:53:00 -  make README.md
+  723  2021-09-28 17:53:12 -  cat README.md
+  724  2021-09-28 17:53:20 -  ls
+  725  2021-09-28 17:53:34 -  rm README.md
+  726  2021-09-28 17:54:19 -  nano makefile
+  727  2021-09-28 17:54:47 -  make README.md
+  728  2021-09-28 17:56:14 -  nano makefile
+  729  2021-09-28 17:57:12 -  make README.md
+  730  2021-09-28 17:57:26 -  cat README.md
+  731  2021-09-28 17:57:43 -  git add --all
+  732  2021-09-28 17:58:14 -  git commit -m "added project files to git hub"
+  733  2021-09-28 17:59:24 -  git remote add project https://github.com/alekhya-kolli/project.git
+  734  2021-09-28 17:59:30 -  git remote
+  735  2021-09-28 17:59:49 -  git push -u project master
+  736  2021-09-28 18:00:42 -  git branch
+  737  2021-09-28 18:01:28 -  cat README.md
+  738  2021-09-28 18:02:19 -  cd
+  739  2021-09-28 18:02:27 -  cd web-page
+  740  2021-09-28 18:03:15 -  cd alekhya-kolli.github.io
+  741  2021-09-28 18:04:00 -  git add --all
+  742  2021-09-28 18:04:20 -  git commit -m "added web page"
+  743  2021-09-28 18:04:40 -  git push -u origin master
+  744  2021-09-28 18:05:36 -  git push
+  745  2021-09-28 18:06:12 -  git push -u origin master
+  746  2021-09-28 18:06:57 -  clear
+  747  2021-09-28 18:07:13 -  git branch
+  748  2021-09-28 18:08:24 -  git push -u origin master
+  749  2021-09-28 18:11:26 -  cd
+  750  2021-09-28 18:11:33 -  cd work
+  751  2021-09-28 18:12:09 -  source guessinggame.sh
+  752  2021-09-28 18:13:23 -  nano guessinggame.sh
+  753  2021-09-28 18:17:26 -  source guessinggame.sh
+  754  2021-09-28 18:49:41 -  history 2
+  755  2021-09-28 18:49:44 -  export HISTTIMEFORMAT='%F %T -  '
+  756  2021-09-28 18:49:46 -  history 2
+  757  2021-09-28 18:49:52 -  cd work
+  758  2021-09-28 18:49:57 -  nano makefile
+  759  2021-09-28 18:50:21 -  make README.md
+  760  2021-09-28 18:50:36 -  history >> cphistory.txt
